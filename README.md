@@ -2,6 +2,11 @@
 Tracker: PCM 1.12.2
 PCM: PCM 1.15.2, PCM 1.16.1
 PB: PB 1.15.2
+<style>
+  #images {
+    display: inline;
+  }
+</style>
 <div id="images">
   <a href="http://curseforge.com/minecraft/mc-mods/pixels-character-models"><img src="https://i.imgur.com/1CdaNz9.png" alt="Pixel's character models banner" width="517" height="45" /></a>
   <a href="http://curseforge.com/minecraft/mc-mods/pixelboxes"><img src="https://i.imgur.com/SKATzEB.png" alt="PixelBoxes banner" width="408" height="58" /></a>
