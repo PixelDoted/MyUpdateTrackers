@@ -9,5 +9,5 @@ PB: PB 1.15.2
   <a href="http://curseforge.com/minecraft/mc-mods/pixelboxes"><img src="https://i.imgur.com/SKATzEB.png" alt="PixelBoxes banner" width="308" height="58" /></a>
 </div>
 <div id="discord">
-  <a href="https://discord.com/invite/rUqUxxw"><img src="https://img.shields.io/discord/739256333152419881?color=blue&label=%20&logo=discord&logoColor=white&style=flat-square"   alt="Discord" width="73" height="20" /></a>
+  <a href="https://discord.com/invite/rUqUxxw"><img src="https://img.shields.io/discord/739256333152419881?color=blue&label=%20&logo=discord&logoColor=white&style=flat-square"   alt="Discord" width="146" height="40" /></a>
 </div>
